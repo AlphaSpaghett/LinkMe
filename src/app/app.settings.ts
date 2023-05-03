@@ -5,4 +5,5 @@ export class AppSettings {
   static readonly INDEED_URL = 'https://profile.indeed.com/p/rosss-bweef8u';
   static readonly LINKEDIN_URL = 'https://www.linkedin.com/in/ross-stenild-johansen/';
   static readonly TWITTER_URL = 'https://www.twitter.com';
+  static readonly RSJI_URL = 'https://www.rsji.com';
 }
